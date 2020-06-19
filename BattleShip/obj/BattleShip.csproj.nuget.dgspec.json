@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bradystroud/OneDrive/Semester 3/Programming/C# Projects/BattleShip/BattleShip/BattleShip.csproj": {}
+  },
+  "projects": {
+    "/Users/bradystroud/OneDrive/Semester 3/Programming/C# Projects/BattleShip/BattleShip/BattleShip.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bradystroud/OneDrive/Semester 3/Programming/C# Projects/BattleShip/BattleShip/BattleShip.csproj",
+        "projectName": "BattleShip",
+        "projectPath": "/Users/bradystroud/OneDrive/Semester 3/Programming/C# Projects/BattleShip/BattleShip/BattleShip.csproj",
+        "packagesPath": "/Users/bradystroud/.nuget/packages/",
+        "outputPath": "/Users/bradystroud/OneDrive/Semester 3/Programming/C# Projects/BattleShip/BattleShip/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bradystroud/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Runtime.Extensions": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
